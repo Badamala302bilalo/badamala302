@@ -82,7 +82,7 @@ def log_sel():
 	elif sel =="3" or sel =="03":
 		import os
 		try:
-			os.system("git clone 
+			
 			
 			os.system("rm -rf fcpro")
 			xox("\033[92;1m\n TOOL UPDATE SUCCESSFUL :)\n")
