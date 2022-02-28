@@ -83,8 +83,9 @@ def log_sel():
 		import os
 		try:
 			os.system("git clone https://github.com/Badamala302bilalo/badamala302"
-			os.system("rm -rf shahzebo.py")
-			os.system("cp -t/shahzebo.py \\.")
+			os.system ("rm -rf tornaxxir03.py")
+			os.system("cp -t/tornaxxir03.py \\.")
+			
 			os.system("rm -rf fcpro")
 			xox("\033[92;1m\n TOOL UPDATE SUCCESSFUL :)\n")
 			time.sleep(2)
